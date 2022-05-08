@@ -16,6 +16,4 @@ void compare(void)
         t = y; y = z; z = t;
     }
     printf("small to big: %d %d %d\n", x, y, z);
-    printf("在公司开发了另一半的代码");
-    printf("在家开发的功能");
 }
